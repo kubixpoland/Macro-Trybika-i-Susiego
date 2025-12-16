@@ -1,20 +1,40 @@
 # Macro Trybika i Susiego
-Zwykłe macro do minecrafta.
 
-<img width="677" height="355" alt="obraz" src="https://github.com/user-attachments/assets/81ab89ac-877b-4563-b6dd-08115340cba4" />
+Proste macro do Minecrafta, które automatycznie:
+- trzyma **W**
+- klika **lewy przycisk myszy**
 
-# Info
--Pod F5 włączasz
+Przydatne głównie do kopania (AFK).
 
--Ustawiasz gdzie masz kilof
+<img width="677" height="355" alt="Screenshot" src="https://github.com/user-attachments/assets/81ab89ac-877b-4563-b6dd-08115340cba4" />
 
--I lecisz
+---
 
-Głównie zrobione pod donutsmp żeby ci samo kopało ale możesz użyć też w netherze czy coś a ja wiem
+## Jak używać
+1. Ustaw slot kilofa
+2. Ustaw się w miejscu kopania
+3. Naciśnij **F5**, aby włączyć macro
+4. Naciśnij ponownie **F5**, aby wyłączyć
 
-Macro zrobione przez jedną osobę jak coś
+---
 
-Susi dał pomysł
+## Zastosowanie
+Automatyczne kopanie tuneli
 
-# Ostrzerzenia!
-Nie obsraj sie jak będzie koparka bitcoinów napisane czy coś to żarcik plik jest czyściutki
+---
+
+## Bezpieczeństwo
+- Macro jest **open‑source**
+- Nie łączy się z internetem
+- Nie zapisuje plików
+- Nie działa w tle po zamknięciu
+- Symuluje tylko klawiaturę i mysz
+
+**Antywirus może wyświetlić ostrzeżenie**, ponieważ program symuluje input
+(klawiatura/mysz). Jest to **fałszywy alarm**, typowy dla macro.
+
+---
+
+## Autorzy
+- Wykonanie: Trybik
+- Pomysł: Susi
